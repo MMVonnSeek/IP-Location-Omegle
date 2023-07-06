@@ -1,4 +1,4 @@
-#IP Location Omegle
+# IP Location Omegle
 
 Just an academic joke to see the Ip location of people on Omegle.
 
